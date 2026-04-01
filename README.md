@@ -8,7 +8,7 @@
 
 供你学习参考，以上
 
-## 🙏 感谢审核
+## 🙏 贡献者
 <a href="https://github.com/LazzyXP/AI-Security-and-Ethics-BeiHang-University/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=LazzyXP/AI-Security-and-Ethics-BeiHang-University" />
 </a>
