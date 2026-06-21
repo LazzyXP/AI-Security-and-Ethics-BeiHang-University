@@ -1,14 +1,29 @@
-# 人工智能安全与伦理-雨课堂-北航-单元作业
+# 人工智能安全与伦理 · 北航
 
-> 如果你需要markdown，它被列在最外层的文件夹
+> **人工智能安全与伦理** 课程学习内容  
 
-> 如果你需要pdf，它被存放在pdf文件夹里
+[![GitHub stars](https://img.shields.io/github/stars/LazzyXP/AI-Security-and-Ethics-BeiHang-University?style=social)](https://github.com/LazzyXP/AI-Security-and-Ethics-BeiHang-University)
+[![GitHub repo size](https://img.shields.io/github/repo-size/LazzyXP/AI-Security-and-Ethics-BeiHang-University)](https://github.com/LazzyXP/AI-Security-and-Ethics-BeiHang-University)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-很抱歉没有word版，如果你学习过一点markdown，你会发现所有需要填写的部分已经被加粗了
+---
 
-供你学习参考，以上
+## 📥 下载链接
 
-## 🙏 贡献者
+- [下载 Markdown 文档](https://raw.githubusercontent.com/LazzyXP/AI-Security-and-Ethics-BeiHang-University/main/人工智能安全与伦理-北航.md)
+- [下载 PDF 资料](https://github.com/LazzyXP/AI-Security-and-Ethics-BeiHang-University/tree/main/pdf)
+
+## ⭐ Star 趋势
+
+[![Star History Chart](https://api.star-history.com/svg?repos=LazzyXP/AI-Security-and-Ethics-BeiHang-University)](https://www.star-history.com/#LazzyXP/AI-Security-and-Ethics-BeiHang-University)
+
+---
+
+##  贡献者
+
 <a href="https://github.com/LazzyXP/AI-Security-and-Ethics-BeiHang-University/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=LazzyXP/AI-Security-and-Ethics-BeiHang-University" />
 </a>
+
+---
+
