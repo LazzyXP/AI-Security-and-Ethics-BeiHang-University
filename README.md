@@ -6,7 +6,6 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/LazzyXP/AI-Security-and-Ethics-BeiHang-University)](https://github.com/LazzyXP/AI-Security-and-Ethics-BeiHang-University)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
----
 
 ## 📥 下载链接
 
@@ -17,7 +16,6 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=LazzyXP/AI-Security-and-Ethics-BeiHang-University)](https://www.star-history.com/#LazzyXP/AI-Security-and-Ethics-BeiHang-University)
 
----
 
 ##  贡献者
 
@@ -25,5 +23,4 @@
   <img src="https://contrib.rocks/image?repo=LazzyXP/AI-Security-and-Ethics-BeiHang-University" />
 </a>
 
----
 
