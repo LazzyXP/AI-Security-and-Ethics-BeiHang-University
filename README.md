@@ -9,8 +9,7 @@
 
 ## 📥 下载链接
 
-- [下载 Markdown 文档](https://raw.githubusercontent.com/LazzyXP/AI-Security-and-Ethics-BeiHang-University/main/人工智能安全与伦理-北航.md)
-- [下载 PDF 资料](https://github.com/LazzyXP/AI-Security-and-Ethics-BeiHang-University/tree/main/pdf)
+- [下载 PDF 资料](https://raw.githubusercontent.com/LazzyXP/AI-Security-and-Ethics-BeiHang-University/main/pdf/人工智能安全与伦理-北航.pdf)
 
 ## ⭐ Star 趋势
 
